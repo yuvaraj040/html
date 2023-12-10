@@ -4,3 +4,9 @@ body{
     margin: 0px;
     background-image: url('../html/b2.png');
 }
+h1{
+    text-align: center;
+    color: white;
+    padding: auto;
+    font-size: large;
+}
